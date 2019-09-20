@@ -66,7 +66,7 @@ h2{
 		  margin-right: 10px;
 	  }
 	/* footer*/
-footer{
+.footer{
 	border: solid 1px gray;
 	background-color: #666666;
 	color: #cccccc;	  
@@ -76,6 +76,10 @@ footer{
     height: 50px;
 	width: 100%;
 	border-top: solid 5px #4aaaa5;	 
+}
+.center{
+	text-align: center;
+	margin-top: 28px;
 }
  /* Porfoli */  
   img {
